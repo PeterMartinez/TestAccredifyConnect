@@ -1,0 +1,6 @@
+{
+    "require": {
+        "vlucas/phpdotenv": "^2.2",
+        "petermartinez/accredify-connect-php": "^0.1.0"
+    }
+}
